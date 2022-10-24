@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jcouto97&label=Profile%20views&color=0e75b6&style=flat" alt="Jcouto97" /> </p>
 
-- 🔭 As of now I'm lecturing classes in Mindera's Mindswap bootcamp as an assistant teacher
+- 👨‍🏫 As of now I'm lecturing classes in Mindera's Mindswap bootcamp as an assistant teacher
 
 - 👨‍💻 Portfolio under construction [here](https://portfolio-nextjs-pearl.vercel.app/)
 
@@ -12,7 +12,7 @@
 
 - 📄 [resume](https://drive.google.com/file/d/18Ae36JL5W_sBrtQJYW8YC3kwoJMOmzna/view?usp=sharing)
 
-- ⚡ Fun fact **Music and Football enthusiast**
+- ⚡ Fun facts: **Music and Football enthusiast**
 
 ## 🧾 Others
 
