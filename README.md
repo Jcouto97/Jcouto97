@@ -6,7 +6,7 @@
 
 - 👨‍💻 Portfolio under construction [here](https://portfolio-nextjs-pearl.vercel.app/)
 
-- 🌱 Currently learning **NextJs**
+- 🌱 Currently learning **Next.Js**
 
 - 📫 How to reach me **jcouto_97@hotmail.com**
 
