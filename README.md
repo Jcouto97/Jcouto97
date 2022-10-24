@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jcouto97&label=Profile%20views&color=0e75b6&style=flat" alt="Jcouto97" /> </p>
 
-- 👨‍🏫 As of now I'm lecturing classes in Mindera's Mindswap bootcamp as an assistant teacher
+- 👨‍🏫 Fodaç As of now I'm lecturing classes in Mindera's Mindswap bootcamp as an assistant teacher
 
 - 👨‍💻 Portfolio under construction [here](https://portfolio-nextjs-pearl.vercel.app/)
 
@@ -17,4 +17,3 @@
 ## 🧾 Others
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-couto-84a60a252/"><img style="widht:10px;height:20px;" src='LinkedinRectangle.png' /></a>
-
