@@ -17,3 +17,4 @@
 ## 🧾 Others
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-couto-84a60a252/"><img style="widht:10px;height:20px;" src='LinkedinRectangle.png' /></a>
+
