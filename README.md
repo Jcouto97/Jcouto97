@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jcouto97&label=Profile%20views&color=0e75b6&style=flat" alt="Jcouto97" /> </p>
 
-- 👨‍🏫 As of now I'm lecturing some classes in Mindera's Mindswap bootcamp as an assistant teacher
+- 👨‍🏫 Presently I'm lecturing some classes in Mindera's Mindswap bootcamp as an assistant teacher
 
 - 👨‍💻 Portfolio under construction [here](https://portfolio-nextjs-pearl.vercel.app/)
 
