@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning **Next.Js**
 
-- 📫 How to reach me **jcouto_97@hotmail.com**
+- 📫 How to reach me: **jcouto_97@hotmail.com**
 
 - 📄 [resume](https://drive.google.com/file/d/1XJ57X7RHAqpX87px4Wgg7S70uFrYXfS_/view?usp=sharing)
 
