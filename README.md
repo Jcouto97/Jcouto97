@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jcouto_97@hotmail.com**
 
-- 📄 [resume](https://drive.google.com/file/d/18Ae36JL5W_sBrtQJYW8YC3kwoJMOmzna/view?usp=sharing)
+- 📄 [resume](https://drive.google.com/file/d/1XJ57X7RHAqpX87px4Wgg7S70uFrYXfS_/view?usp=sharing)
 
 - ⚡ Fun facts: **Music and Football enthusiast**
 
