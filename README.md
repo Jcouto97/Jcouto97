@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jcouto97&label=Profile%20views&color=0e75b6&style=flat" alt="Jcouto97" /> </p>
 
-- 👨‍🏫 Presently I'm lecturing some classes in Mindera's Mindswap bootcamp as an assistant teacher
+- 👨‍🏫 Currently I'm working as a backend developer in Present Technologies
 
-- 👨‍💻 Portfolio under construction [here](https://portfolio-nextjs-pearl.vercel.app/)
+- 👨‍💻 Portfolio (old) [here](https://portfolio-nextjs-pearl.vercel.app/)
 
-- 🌱 Currently learning **Next.Js**
+- 🌱 Currently learning **Python Flask**
 
 - 📫 How to reach me: **jcouto_97@hotmail.com**
 
