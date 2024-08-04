@@ -6,7 +6,7 @@
 
 - 👨‍💻 Portfolio (old) [here](https://portfolio-nextjs-pearl.vercel.app/)
 
-- 🌱 Currently learning **Python Flask**
+- 🌱 Presently learning **Python Flask**
 
 - 📫 How to reach me: **jcouto_97@hotmail.com**
 
